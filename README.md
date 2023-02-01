@@ -1,6 +1,7 @@
 # node_modules Deletion Tool
 
 A shell script that searches and deletes `node_modules` folders in a given directory and its subdirectories.
+
 ![Output example](https://raw.githubusercontent.com/olegkron/node_modules_remover/main/output_example.png)
 
 
