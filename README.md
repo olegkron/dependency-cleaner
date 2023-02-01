@@ -1,6 +1,6 @@
 # node_modules Deletion Tool
 
-A shell script that searches and deletes node_modules folders found in a given directory and its subdirectories.
+A shell script that searches and deletes `node_modules` folders in a given directory and its subdirectories.
 
 ## Features
 
@@ -10,6 +10,7 @@ A shell script that searches and deletes node_modules folders found in a given d
 -   Allows the user to select which folders to delete
 -   Calculates the total space saved
 -   Works on Linux and MacOS
+
 ## Usage
 The script can be executed using the following command in the terminal:
 
