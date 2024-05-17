@@ -1,4 +1,4 @@
-<h1 align="center">Dependency Cleaner 🗑️</h1> <div align="center">
+<h1 align="center">Dependency Cleaner</h1> <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/olegkron/dependency-cleaner.svg?style=social)](https://github.com/olegkron/dependency-cleaner/stargazers) [![Forks](https://img.shields.io/github/forks/olegkron/dependency-cleaner.svg?style=social)](https://github.com/olegkron/dependency-cleaner/network/members) [![Contributors](https://img.shields.io/github/contributors/olegkron/dependency-cleaner.svg)](https://github.com/olegkron/dependency-cleaner/graphs/contributors) [![Issues](https://img.shields.io/github/issues/olegkron/dependency-cleaner.svg)](https://github.com/olegkron/dependency-cleaner/issues) [![MIT License](https://img.shields.io/github/license/olegkron/dependency-cleaner.svg)](https://github.com/olegkron/dependency-cleaner/blob/main/LICENSE)
 
