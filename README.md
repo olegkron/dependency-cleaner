@@ -24,39 +24,13 @@ The script can be executed using the following command in the terminal:
 -   `directory_path`: Required. The directory to search for node_modules folders.
 -   `max_depth`: Optional. Sets maximum depth to search for node_modules folders. Default is 3.
 
-## Output Example
-
-```
-./dependency-cleaner.sh ~/projects
-
-Searching for node_modules folders in /Users/johndoe/projects... (max depth: 3)
-Found 5 node_modules of total size 1.3G in the following folders:
-[0] project1 - 200M
-[1] project2 - 300M
-[2] project3 - 200M
-[3] project4 - 400M
-[4] project5 - 200M
-
-Enter the index number(s) of the node_modules folder(s) to delete (separated by a space).
-To delete all, press enter. To quit, type 'q':
-0 1 2 4
-Removing node_modules folder for project1 (200M) ...
-Removing node_modules folder for project2 (300M) ...
-Removing node_modules folder for project3 (200M) ...
-Removing node_modules folder for project5 (200M) ...
-Done, Total space saved: 1.1G
-
-```
-
-## 🙌 Contributing
-
-If you have any suggestions for improvements or find any bugs, feel free to open a pull request or an issue.
-
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=olegkron/dependency-cleaner&type=Date)](https://star-history.com/#olegkron/dependency-cleaner&Date)
 
+## 🙌 Contributing
+
+If you have any suggestions for improvements or find any bugs, feel free to open a pull request or an issue.
 
 ## 👥 Authors
 
